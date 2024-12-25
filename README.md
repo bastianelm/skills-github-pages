@@ -1,2 +1,4 @@
-# skills-github-pages
-My clone repository
+# my skills
+## js
+## frontendframeworks
+## backend (mysql, node)
